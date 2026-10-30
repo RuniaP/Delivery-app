@@ -1,0 +1,7 @@
+# Environment variables
+.env
+**/.env
+
+# Keep example environment files
+!.env.example
+!**/.env.example
